@@ -1,4 +1,8 @@
-# Protected_ControlEngineeringLAB
+<p align="center">
+  <img src="https://github.com/MarcoMustacchi/MarcoMustacchi.github.io/blob/main/assets/img/icons/UniPD_logo.svg" width="150">
+</p>
+
+<h1 align="center"> (Protected) Control Engineering LAB - Laboratory Activities <br> UniPd</h1>
 
 ## Lab 0: Position PID–control of a DC servomotor
 The goal of this laboratory activity is to design a position PID controller for the DC servomotor
