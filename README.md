@@ -4,7 +4,9 @@
 
 <h1 align="center"> (Protected) Control Engineering LAB - Laboratory Activities <br> UniPd</h1>
 
-## Lab 0: Position PID–control of a DC servomotor
+## Lab 0: Position PID–control of a DC servomotor 
+<a href="https://github.com/MarcoMustacchi/Protected_ControlEngineeringLAB/raw/master/Lab0/report/Lab0RealMotor/ReportLab0RealMotor.pdf">📄Paper</a>
+<br>
 The goal of this laboratory activity is to design a position PID controller for the DC servomotor
 available in laboratory. The design is carried out in frequency domain (i.e Bode’s method) with the
 adoption of a nominal model of the motor, whose parameters are deduced from data–sheets. In
@@ -14,7 +16,9 @@ laboratory activity to improve the control performances, in particular by implem
 inertia plus friction compensation scheme.
 
 
-## Lab 1: Position state–space control of a DC servomotor
+## Lab 1: Position state–space control of a DC servomotor 
+<a href="https://github.com/MarcoMustacchi/Protected_ControlEngineeringLAB/raw/master/Lab1/report/Celab_Report1.pdf">📄Paper</a>
+<br>
 This laboratory activity is articulated in two parts: in the first part, some improvements to the position
 PID–control system designed in the previous laboratory activity are introduced. The improvements
 consist in the implementation of an anti–windup scheme to reduce the large overshoot occurring
@@ -30,6 +34,8 @@ principle (for robust tracking and perfect rejection of more general, possibly t
 
 
 ## Lab 2: Digital position control of a DC servomotor 
+<a href="https://github.com/MarcoMustacchi/Protected_ControlEngineeringLAB/raw/master/Lab2/report/Celab_Report2.pdf">📄Paper</a>
+<br>
 The goal of this laboratory activity is to design a digital position controller for the DC servomotor
 available in the laboratory. Two different design approaches are considered: in the design by emulation, 
 the digital controller is obtained by discretization of a controller that is originally designed in
@@ -39,6 +45,8 @@ to be controlled.
 
 
 ## Lab 3: Position control of a DC servomotor with resonant load
+<a href="https://github.com/MarcoMustacchi/Protected_ControlEngineeringLAB/raw/master/Lab3/report/Lab3Challenge/Group2_Tuesday_Lab3_Challenge.pdf">📄Paper</a>
+<br>
 The goal of this laboratory activity is to design a position controller for a DC servomotor driving
 a resonant mechanical load. For such purpose, the original inertial load (disc inertia) of the DC
 gearmotor available in laboratory is replaced with a rigid beam connected to the motor through a
@@ -50,6 +58,8 @@ optimal techniques based on the Linear Quadratic Regulator (LQR).
 
 
 ## Lab 4: Longitudinal state–space control of the balancing robot
+<a href="https://github.com/MarcoMustacchi/Protected_ControlEngineeringLAB/raw/master/Lab4/report/Celab_Report4.pdf">📄Paper</a>
+<br>
 The purpose of this laboratory activity is to design and test a longitudinal state–space controller
 for the two–wheeled balancing robot (also referred as “two–wheeled inverted pendulum robot”, or
 “Segway–like robot”) available in laboratory. The controller is designed to simultaneously stabilize
@@ -58,5 +68,6 @@ set-point. The design is performed by resorting to a simplified model of the rob
 by assuming that the motion occurs along a straight line (i.e. the lateral or heading–angle dynamics
 is ignored).
 
+<br>
 
 > All MATLAB script files are protected 
